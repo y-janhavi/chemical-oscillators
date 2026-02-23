@@ -1,8 +1,3 @@
-#NAME : JANHAVI TARENDRA KUMAR YADAV
-#CLASS : MSC PART 1 [PHYSICS]
-#ROLL NO. : FMSC2425202
-#SUBJECT : COMPUTATIONAL PHYSICS
-
 # SIMULATION OF 1D ISING MODEL
 
 import numpy as np
@@ -99,4 +94,5 @@ plt.plot(T_range,X)
 plt.xlabel('Temperature (T)')
 plt.ylabel('Magnetic Susceptibility')
 plt.title('Magnetic Susceptibility vs Temprature')
+
 plt.show()
